@@ -1,6 +1,6 @@
 # Hi 👋, I'm Suraj Kalburgikar
 
-**Software Developer | Python Backend | Aspiring SDE**
+**Software Developer | Python Backend | Aspiring Backend developer**
 
 ---
 
@@ -9,7 +9,7 @@
 - 💻 Focused on Backend Development & Problem Solving  
 - ⚡ Experience with Python, REST APIs, and scalable systems  
 - 🤖 Working with Machine Learning fundamentals and exploring Generative AI applications  
-- 🚀 Goal: Become a strong Software Development Engineer  
+- 🚀 Goal: Become a strong Python Developer and Generative AI developer  
 
 ---
 
