@@ -1,7 +1,4 @@
-# Hi 👋, I'm Suraj Kalburgikar
-
-**Software Developer | Python Backend | Aspiring Backend developer**
-
+# Hi, I'm Suraj Kalburgikar 🌟
 ---
 
 ## 🧑‍💻 About Me
