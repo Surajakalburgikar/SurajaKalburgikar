@@ -62,18 +62,9 @@
 - Optimized using ONNX & TensorRT (40% faster)  
 
 ---
-
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Surajakalburgikar&show_icons=true&theme=tokyonight)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Surajakalburgikar&theme=tokyonight)
-
----
-
-## 📈 Activity Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Surajakalburgikar&theme=tokyo-night)
 
 ---
 
